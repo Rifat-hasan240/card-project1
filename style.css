@@ -1,0 +1,147 @@
+   /* common css style start */
+
+   *{
+        margin: 0;
+        padding: 0;
+
+   }
+
+   
+
+   body{
+
+    background-color: #E3E6E3;
+    }
+    
+       
+     .bod{
+            text-align: center;
+            background-image: linear-gradient(#F42A40,#006A4F);
+            
+     }
+
+   
+     
+
+ 
+/* 
+     #conatiner-card > #div {
+
+        display: flex;
+        flex-direction:row;
+     } */
+    
+    /* common css style end */
+    
+            /* conatiner css code start */
+    
+            #conatiner-card{
+                              
+        display: flex;
+        flex-direction:row;    
+        flex-wrap: wrap;  
+        justify-content: center;    
+        background-image:url(https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/640px-Flag_of_Bangladesh.svg.png&w=640&q=50) ;
+        /* justify-content: space-between;     */
+    
+            } 
+
+            /* #conatiner-card > div{
+                display: flex;
+                flex-direction:row;   
+
+            } */
+    
+           
+             
+              /* conatiner css code end */
+    
+               
+    
+                  /* @media (max-width: 300px) {
+      .container-card {
+                flex-direction: column;
+      }
+    } */
+    
+    
+                /* card1 css style start */
+               
+                    #card1,#card2,#card3,#card4,#card5,#card6, #card7,#card8,#card9, #card10, #card11,#card12{
+                             max-width: 300px;
+                             
+                             box-sizing: border-box;
+                             box-shadow: 1px 2px 5px black;
+                             margin: 10px;
+                             padding: 10px;
+                             
+    
+                    } 
+                    
+
+                    
+
+                    /* #card1,#card2,#card3,#card4,#card5,#card6, #card7,#card8,#card9, #card10, #card11,#card12{
+                        box-shadow: 4px 6px 10px black;
+    
+                    } */
+    
+                    
+                    /* card1 css style end */
+    
+    
+                    /* img css style start */
+    
+                  
+                   
+    
+                    
+    
+                    img{
+    
+                        width:100% ;
+                        opacity: 0.5;
+                    }
+    
+                    img:hover{
+    
+                        opacity: 1;
+                       
+                    }
+    
+    
+                    .m{
+                       height: 200px;
+                    }
+    
+    
+                     /* img css style end */
+    
+    
+    
+                   
+                       /*some tag of css style  start */
+    
+                       h2{
+                        text-align: center;
+                        text-shadow: 1px 2px 5px blue;
+                        font-family:sans-serif;
+                    }
+    
+                    h3{
+                        text-align: center;
+                   } 
+          
+                          
+                   p{
+                      color: white;
+                      text-align: justify;
+    
+    
+                    }
+                        /*some tag of css style end  */
+
+
+                        
+    
+    
